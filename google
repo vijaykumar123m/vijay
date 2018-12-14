@@ -1,0 +1,5 @@
+mkdir crome
+cd crome
+touch n{1..3}
+mkdir n
+cp n1 n
